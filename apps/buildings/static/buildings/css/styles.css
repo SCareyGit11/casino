@@ -1,0 +1,20 @@
+#container{
+	align-content: center;
+}
+.building {
+	text-align: center;
+	width: 22%;
+	display: inline-block;
+	border-style: solid;
+	padding-bottom: 10px;
+	margin: 2px;
+}
+
+#gold_count {
+	border-style: solid;
+	width: 15%
+}
+
+.red {
+	color: red;
+}
